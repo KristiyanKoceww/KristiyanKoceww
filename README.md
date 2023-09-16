@@ -31,3 +31,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristiyanKoceww" alt=""/>
 </div>
 
+<div align="center">
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanKoceww&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" alt=""/>
+</div>
+
+
