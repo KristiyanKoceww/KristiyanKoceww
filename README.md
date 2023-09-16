@@ -27,4 +27,7 @@
 ---
 
 ### :fire: My Stats :
-[https://github-readme-streak-stats.herokuapp.com/?user=KristiyanKoceww]
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KristiyanKoceww alt=""/>
+</div>
+
