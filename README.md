@@ -28,6 +28,6 @@
 
 ### :fire: My Stats :
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KristiyanKoceww" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristiyanKoceww" alt=""/>
 </div>
 
